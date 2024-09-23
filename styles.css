@@ -1,2 +1,26 @@
-
-/* Your CSS Code here. */
+.container{
+	text-align: center;
+	width:80%;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.movieposter{
+	margin-bottom: 50px;
+}
+.moviepic{
+	width:300px;
+	height:400px;
+	 opacity: 0.9;
+}
+.movieDescription {
+    margin-top: 20px;
+}
+.movieDetail {
+    top: 50px;
+    width: 80%;
+    font-size: 1.2rem;
+    text-align: center;
+    line-height: 1.6;
+    color: blue;
+}
